@@ -1,0 +1,14 @@
+footer{
+padding: 10px;
+background-color: #6c78b0;
+}
+footer p{
+    color: azure;
+
+    font-size: 0.5rem;
+    font-weight: bold;
+    font-family: 'Shadows Into Light', cursive;
+
+    letter-spacing: 10px;
+    padding-top: 6px;
+}
